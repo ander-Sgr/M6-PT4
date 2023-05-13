@@ -1,0 +1,40 @@
+#table-music{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+#table-music thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+#table-music th,
+#table-music td {
+    padding: 12px 15px;
+}
+
+#table-music  tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+#table-music  tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+#table-music  tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+#table-music  tr .active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+.cursor {
+    cursor: pointer;
+}

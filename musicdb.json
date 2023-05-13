@@ -1,0 +1,465 @@
+{"artist":[
+    {
+        "name":"Abba",
+        "album":[
+            {
+                "title":"Ring Ring",
+                "song":[
+                    {"songname":"Ring Ring","duration":2.05},
+                    {"songname":"Another Town, Another Train","duration":2.05},
+                    {"songname":"Disillusion","duration":2.05},
+                    {"songname":"People Need Love","duration":2.05},
+                    {"songname":"I Saw It in the Mirror","duration":2.05},
+                    {"songname":"Nina, Pretty Ballerina","duration":2.05},
+                    {"songname":"Love Isn't Easy (But It Sure Is Hard Enough)","duration":2.05},
+                    {"songname":"Me and Bobby and Bobby's Brother","duration":2.05},
+                    {"songname":"He Is Your Brother","duration":2.05},
+                    {"songname":"She's My Kind of Girl","duration":2.05},
+                    {"songname":"I Am Just a Girl","duration":2.05},
+                    {"songname":"Rock 'N' Roll Band","duration":2.05}
+                ]
+            },
+            {
+                "title":"Waterloo",
+                "song":[
+                    {"songname":"Waterloo","duration":2.05},
+                    {"songname":"Sitting in the Palmtree","duration":2.05},
+                    {"songname":"King Kong Song","duration":2.05},
+                    {"songname":"Hasta Manana","duration":2.05},
+                    {"songname":"My Mama Said","duration":2.05},
+                    {"songname":"Dance (While the Music Still Goes On)","duration":2.05},
+                    {"songname":"Honey, Honey","duration":2.05},
+                    {"songname":"Watch Out","duration":2.05},
+                    {"songname":"What About Livingstone","duration":2.05},
+                    {"songname":"Gonna Sing You My Love Song","duration":2.05}
+                ]
+            },
+            {
+                "title":"ABBA",
+                "song":[
+                    {"songname":"Mamma Mia","duration":2.05},
+                    {"songname":"Hey, Hey Helen","duration":2.05},
+                    {"songname":"Tropical Loveland","duration":2.05},
+                    {"songname":"S.O.S.","duration":2.05},
+                    {"songname":"Man in the Middle","duration":2.05},
+                    {"songname":"Bang-A-Boomerang","duration":2.05},
+                    {"songname":"I Do, I Do, I Do, I Do, I Do ","duration":2.05},
+                    {"songname":"Rock Me","duration":2.05}
+                ]
+            },
+            {
+                "title":"Arrival",
+                "song":[
+                    {"songname":"When I Kissed the Teacher","duration":2.05},
+                    {"songname":"Dancing Queen","duration":2.05},
+                    {"songname":"My Love, My Life","duration":2.05},
+                    {"songname":"Dum Dum Diddle","duration":2.05},
+                    {"songname":"Knowing Me, Knowing You","duration":2.05},
+                    {"songname":"Money, Money, Money ","duration":2.05},
+                    {"songname":"That's Me","duration":2.05},
+                    {"songname":"Why Did It Have to Be Me?","duration":2.05},
+                    {"songname":"Tiger","duration":2.05},
+                    {"songname":"Arrival","duration":2.05}
+                ]
+            },
+            {
+                "title":"Voulez-Vous",
+                "song":[
+                    {"songname":"As Good as New","duration":2.05},
+                    {"songname":"Voulez-Vous","duration":2.05},
+                    {"songname":"I Have a Dream","duration":2.05},
+                    {"songname":"Angeleyes","duration":2.05},
+                    {"songname":"The King Has Lost His Crown","duration":2.05},
+                    {"songname":"Does Your Mother Know","duration":2.05},
+                    {"songname":"If It Wasn't for the Nights","duration":2.05},
+                    {"songname":"Chiquitita","duration":2.05},
+                    {"songname":"Lovers (Live a Little Longer)","duration":2.05},
+                    {"songname":"Kisses of Fire","duration":2.05}
+                ]
+            }
+        ]
+    },
+
+    {
+        "name":"John Scofield",
+        "album":[
+            {
+                "title":"East Meets West",
+                "song":[
+                    {"songname":"Public Domain","duration":2.05},
+                    {"songname":"Amy (Who Else?)","duration":2.05},
+                    {"songname":"Blues for Okinawa","duration":2.05},
+                    {"songname":"V.","duration":2.05},
+                    {"songname":"Un Toco Loco - Ballet","duration":2.05},
+                    {"songname":"Ida Lupino","duration":2.05}
+                ]
+            },
+            {
+                "title":"John Scofield Live",
+                "song":[
+                    {"songname":"V.","duration":2.05},
+                    {"songname":"Cray and Viscaral","duration":2.05},
+                    {"songname":"Leaving","duration":2.05},
+                    {"songname":"Air Pakistan","duration":2.05},
+                    {"songname":"Jeanie","duration":2.05},
+                    {"songname":"Softly, As in a Morning Sunrise","duration":2.05}
+                ]
+            },
+            {
+                "title":"Loud Jazz",
+                "song":[
+                    {"songname":"Tell You What","duration":2.05},
+                    {"songname":"Dance Me Home","duration":2.05},
+                    {"songname":"Signature of Venus","duration":2.05},
+                    {"songname":"Dirty Rice","duration":2.05},
+                    {"songname":"Did It","duration":2.05},
+                    {"songname":"sonWabash","duration":2.05},
+                    {"songname":"Loud Jazz","duration":2.05},
+                    {"songname":"Otay","duration":2.05},
+                    {"songname":"True Love","duration":2.05},
+                    {"songname":"Igetthepicture","duration":2.05}
+                ]
+            },
+            {
+                "title":"Hand Jive",
+                "song":[
+                    {"songname":"I'll Take Les","duration":2.05},
+                    {"songname":"Dark Blue","duration":2.05},
+                    {"songname":"Do Like Eddie","duration":2.05},
+                    {"songname":"She's So Lucky","duration":2.05},
+                    {"songname":"Checkered Past","duration":2.05},
+                    {"songname":"7th Floor","duration":2.05},
+                    {"songname":"Golden Gaze","duration":2.05},
+                    {"songname":"Don't Shoot the Messenger","duration":2.05},
+                    {"songname":"Whip the Mule","duration":2.05},
+                    {"songname":"Out of the City","duration":2.05}
+                ]
+            },
+            {
+                "title":"A Go Go",
+                "song":[
+                    {"songname":"A Go Go","duration":2.05},
+                    {"songname":"Chank","duration":2.05},
+                    {"songname":"Boozer","duration":2.05},
+                    {"songname":"Southern Pacific","duration":2.05},
+                    {"songname":"Jeep on 35","duration":2.05},
+                    {"songname":"Kubrick","duration":2.05},
+                    {"songname":"Green Tea","duration":2.05},
+                    {"songname":"Hottentot","duration":2.05},
+                    {"songname":"Chicken Dog","duration":2.05},
+                    {"songname":"Deadzy","duration":2.05}
+                ]
+            }
+        ]
+    },
+    
+    {
+        "name":"The Stranglers",
+        "album":[
+            {
+                "title":"Rattus Norvegicus",
+                "song":[
+                    {"songname":"Sometimes","duration":2.05},
+                    {"songname":"Goodbye Toulouse","duration":2.05},
+                    {"songname":"London Lady","duration":2.05},
+                    {"songname":"Princess of the Streets","duration":2.05},
+                    {"songname":"Hanging Around ","duration":2.05},
+                    {"songname":"Peaches","duration":2.05},
+                    {"songname":"(Get A) Grip (On Yourself)","duration":2.05},
+                    {"songname":"Ugly","duration":2.05},
+                    {"songname":"Down in the Sewer: Falling/Down in the Sewer/Trying to Get Out Again","duration":2.05},
+                    {"songname":"Choosey Susie","duration":2.05}
+                ]
+            },
+            {
+                "title":"No More Heroes",
+                "song":[
+                    {"songname":"I Feel Like a Wog","duration":2.05},
+                    {"songname":"Bitching","duration":2.05},
+                    {"songname":"Dead Ringer","duration":2.05},
+                    {"songname":"Daganham Dave","duration":2.05},
+                    {"songname":"Bring on the Nubiles","duration":2.05},
+                    {"songname":"Something Better Change","duration":2.05},
+                    {"songname":"No More Heroes","duration":2.05},
+                    {"songname":"Peasant in the Big Shitty","duration":2.05},
+                    {"songname":"Burning up Time","duration":2.05},
+                    {"songname":"English Towns","duration":2.05}
+                ]
+            },
+            {
+                "title":"Black and White",
+                "song":[
+                    {"songname":"Tank","duration":2.05},
+                    {"songname":"Nice N' Sleazy","duration":2.05},
+                    {"songname":"Outside Tokyo","duration":2.05},
+                    {"songname":"Hey! (Rise of the Robots)","duration":2.05},
+                    {"songname":"Sweden (All Quiet on the Eastern Front)","duration":2.05},
+                    {"songname":"Toiler on the Sea","duration":2.05},
+                    {"songname":"Curfew","duration":2.05},
+                    {"songname":"Threatened","duration":2.05},
+                    {"songname":"In the Shadows","duration":2.05},
+                    {"songname":"Do You Wanna","duration":2.05}
+                ]
+            },
+            {
+                "title":"The Raven",
+                "song":[
+                    {"songname":"Longships","duration":2.05},
+                    {"songname":"The Raven","duration":2.05},
+                    {"songname":"Dead Loss Angeles","duration":2.05},
+                    {"songname":"Ice","duration":2.05},
+                    {"songname":"Baroque Bordello","duration":2.05},
+                    {"songname":"Nuclear Device","duration":2.05},
+                    {"songname":"Shah Shah a Go Go","duration":2.05},
+                    {"songname":"Don't Bring Harry","duration":2.05},
+                    {"songname":"Duchess","duration":2.05},
+                    {"songname":"Meninblack","duration":2.05}
+                ]
+            },
+            {
+                "title":"Aural Sculpture",
+                "song":[
+                    {"songname":"Ice Queen","duration":2.05},
+                    {"songname":"Skin Deep","duration":2.05},
+                    {"songname":"Let Me Down Easy","duration":2.05},
+                    {"songname":"No Mercy","duration":2.05},
+                    {"songname":"North Winds Blowing","duration":2.05},
+                    {"songname":"Uptown","duration":2.05},
+                    {"songname":"Punch & Judy","duration":2.05},
+                    {"songname":"Under the Name of Spain","duration":2.05},
+                    {"songname":"Laughing","duration":2.05},
+                    {"songname":"Souls","duration":2.05}
+                ]
+            }
+        ]
+    },
+
+    {
+        "name":"Esperanza Spalding",
+        "album":[
+            {
+                "title":"Junjo",
+                "song":[
+                    {"songname":"The Peacocks","duration":2.05},
+                    {"songname":"Loro","duration":2.05},
+                    {"songname":"Humpty Dumpty","duration":2.05},
+                    {"songname":"Mompouana","duration":2.05},
+                    {"songname":"Perazuan","duration":2.05},
+                    {"songname":"Junjo","duration":2.05},
+                    {"songname":"Cantora De Yala","duration":2.05},
+                    {"songname":"Two Bad","duration":2.05},
+                    {"songname":"Perazela","duration":2.05}
+                ]
+            },
+            {
+                "title":"Esperanza",
+                "song":[
+                    {"songname":"Ponta de Areia","duration":2.05},
+                    {"songname":"I Know You Know","duration":2.05},
+                    {"songname":"Fall In","duration":2.05},
+                    {"songname":"I Adore You","duration":2.05},
+                    {"songname":"Cuerpo y Alma","duration":2.05},
+                    {"songname":"She Got to You","duration":2.05},
+                    {"songname":"Precious","duration":2.05},
+                    {"songname":"Mela","duration":2.05},
+                    {"songname":"Love in Time","duration":2.05},
+                    {"songname":"Espera","duration":2.05}
+                ]
+            },
+            {
+                "title":"Chamber Music Society",
+                "song":[
+                    {"songname":"Little Fly","duration":2.05},
+                    {"songname":"Knowledge of Good and Evil","duration":2.05},
+                    {"songname":"Really Very Small","duration":2.05},
+                    {"songname":"Chacarera","duration":2.05},
+                    {"songname":"Wild Is the Wind","duration":2.05},
+                    {"songname":"Apple Blossom","duration":2.05},
+                    {"songname":"As a Sprout","duration":2.05},
+                    {"songname":"What a Friend","duration":2.05},
+                    {"songname":"Winter Sun","duration":2.05},
+                    {"songname":"Inutil Paisagem","duration":2.05},
+                    {"songname":"Short and Sweet","duration":2.05}
+                ]
+            },
+            {
+                "title":"Radio Music Society",
+                "song":[
+                    {"songname":"Radio Song","duration":2.05},
+                    {"songname":"Cinnamon Tree","duration":2.05},
+                    {"songname":"Crowned & Kissed","duration":2.05},
+                    {"songname":"Land of the Free","duration":2.05},
+                    {"songname":"Black Gold","duration":2.05},
+                    {"songname":"I Can't Help It","duration":2.05},
+                    {"songname":"Hold On Me","duration":2.05},
+                    {"songname":"Vague Suspicions","duration":2.05},
+                    {"songname":"Endangered Species","duration":2.05},
+                    {"songname":"Let Her","duration":2.05}
+                ]
+            },
+            {
+                "title":"Emily's D+Evolution",
+                "song":[
+                    {"songname":"Good Lava","duration":2.05},
+                    {"songname":"Unconditional Love","duration":2.05},
+                    {"songname":"Judas","duration":2.05},
+                    {"songname":"Earth to Heaven","duration":2.05},
+                    {"songname":"One","duration":2.05},
+                    {"songname":"Rest in Pleasure","duration":2.05},
+                    {"songname":"Ebony and Ivy","duration":2.05},
+                    {"songname":"Noble Nobles","duration":2.05},
+                    {"songname":"Farewell Dolly","duration":2.05},
+                    {"songname":"Elevate or Operate","duration":2.05}
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Pat Metheny",
+        "album":[
+            {
+                "title":"Pat Metheny Group",
+                "song":[
+                    {"songname":"San Lorenzo","duration":2.05},
+                    {"songname":"Phase Dance","duration":2.05},
+                    {"songname":"Jaco","duration":2.05},
+                    {"songname":"Aprilwind","duration":2.05},
+                    {"songname":"April Joy","duration":2.05},
+                    {"songname":"Lone Jack","duration":2.05}
+                ]
+            },
+            {
+                "title":"American Garage",
+                "song":[
+                    {"songname":"(Cross The) Heartland","duration":2.05},
+                    {"songname":"Airstream","duration":2.05},
+                    {"songname":"The Search","duration":2.05},
+                    {"songname":"American Garage","duration":2.05},
+                    {"songname":"The Epic","duration":2.05}
+                ]
+            },
+            {
+                "title":"80/81",
+                "song":[
+                    {"songname":"Two Folk Songs","duration":2.05},
+                    {"songname":"80/81","duration":2.05},
+                    {"songname":"The Bat","duration":2.05},
+                    {"songname":"Turnaround","duration":2.05},
+                    {"songname":"Open","duration":2.05},
+                    {"songname":"Pretty Scattered","duration":2.05},
+                    {"songname":"Every Day (I Thank You)","duration":2.05},
+                    {"songname":"Goin' Ahead","duration":2.05}
+                ]
+            },
+            {
+                "title":"Offramp",
+                "song":[
+                    {"songname":"Barcarole","duration":2.05},
+                    {"songname":"Are You Going with Me?","duration":2.05},
+                    {"songname":"Au Lait","duration":2.05},
+                    {"songname":"Eighteen","duration":2.05},
+                    {"songname":"Offramp","duration":2.05},
+                    {"songname":"James","duration":2.05},
+                    {"songname":"The Bat, Pt. 2","duration":2.05}
+                ]
+            },
+            {
+                "title":"Letter from Home",
+                "song":[
+                    {"songname":"Have You Heard","duration":2.05},
+                    {"songname":"Every Summer Night","duration":2.05},
+                    {"songname":"Better Days Ahead","duration":2.05},
+                    {"songname":"Spring Ain't Here","duration":2.05},
+                    {"songname":"45/8","duration":2.05},
+                    {"songname":"5-5-7","duration":2.05},
+                    {"songname":"Beat 70","duration":2.05},
+                    {"songname":"Dream of the Return","duration":2.05},
+                    {"songname":"Are We There Yet","duration":2.05},
+                    {"songname":"Vidala","duration":2.05}
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Chet Baker",
+        "album":[
+            {
+                "title":"Jazz at Ann Arbor",
+                "song":[
+                    {"songname":"Line for Lyons","duration":2.05},
+                    {"songname":"Lover Man","duration":2.05},
+                    {"songname":"My Funny Valentine","duration":2.05},
+                    {"songname":"Maid in Mexico","duration":2.05},
+                    {"songname":"Stella by Starlight","duration":2.05},
+                    {"songname":"My Old Flame","duration":2.05},
+                    {"songname":"Headline","duration":2.05},
+                    {"songname":"My Old Flame","duration":2.05},
+                    {"songname":"Headline","duration":2.05},
+                    {"songname":"Russ Job","duration":2.05}
+                ]
+            },
+            {
+                "title":"Chet Baker & Crew",
+                "song":[
+                    {"songname":"To Mickey's Memory","duration":2.05},
+                    {"songname":"Slightly Above Moderate","duration":2.05},
+                    {"songname":"Halema","duration":2.05},
+                    {"songname":"Revelation","duration":2.05},
+                    {"songname":"Something for Liza","duration":2.05},
+                    {"songname":"Lucius Lu","duration":2.05},
+                    {"songname":"Worrying the Life Out of Me","duration":2.05},
+                    {"songname":"Medium Rock","duration":2.05},
+                    {"songname":"To Mickey's Memory","duration":2.05},
+                    {"songname":"Jumpin' Off a Clef","duration":2.05}
+                ]
+            },
+            {
+                "title":"The Chet Baker Sextet",
+                "song":[
+                    {"songname":"Little Man, You've Had a Busy Day","duration":2.05},
+                    {"songname":"Dot's Groovy","duration":2.05},
+                    {"songname":"Stella by Starlight","duration":2.05},
+                    {"songname":"Tommyhawk","duration":2.05},
+                    {"songname":"I'm Glad There Is You","duration":2.05},
+                    {"songname":"The Half Dozens","duration":2.05},
+                    {"songname":"Dot's Groovy","duration":2.05},
+                    {"songname":"Stella by Starlight","duration":2.05},
+                    {"songname":"A Minor Benign","duration":2.05},
+                    {"songname":"Ponder","duration":2.05}
+                ]
+            },
+            {
+                "title":"Chet Baker Sings",
+                "song":[
+                    {"songname":"That Old Feeling","duration":2.05},
+                    {"songname":"It's Always You","duration":2.05},
+                    {"songname":"Like Someone in Love","duration":2.05},
+                    {"songname":"My Ideal","duration":2.05},
+                    {"songname":"I've Never Been in Love Before","duration":2.05},
+                    {"songname":"My Buddy","duration":2.05},
+                    {"songname":"But Not for Me","duration":2.05},
+                    {"songname":"Time After Time","duration":2.05},
+                    {"songname":"I Get Along Without You Very Well","duration":2.05},
+                    {"songname":"My Funny Valentine","duration":2.05}
+                ]
+            },
+            {
+                "title":"Chet Is Back!",
+                "song":[
+                    {"songname":"Well, You Needn't","duration":2.05},
+                    {"songname":"These Foolish Things","duration":2.05},
+                    {"songname":"Barbados","duration":2.05},
+                    {"songname":"Star Eyes","duration":2.05},
+                    {"songname":"Over the Rainbow","duration":2.05},
+                    {"songname":"Pent Up House","duration":2.05},
+                    {"songname":"Ballata in Forma Di Blues","duration":2.05},
+                    {"songname":"Blues in the Closet","duration":2.05}
+                ]
+            }
+        ]
+    }
+]
+
+
+
+}
