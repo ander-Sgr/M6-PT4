@@ -38,3 +38,11 @@
 .cursor {
     cursor: pointer;
 }
+
+.expanded {
+    display: none;
+}
+
+.highLigth:hover{
+    background-color: yellow;
+}
