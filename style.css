@@ -46,3 +46,25 @@
 .highLigth:hover{
     background-color: yellow;
 }
+
+.container-weather {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .container-weather div {
+    text-align: center;
+  }
+  
+  #img-clima {
+    width: 100px;
+    height: 100px;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
